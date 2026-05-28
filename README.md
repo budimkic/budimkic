@@ -93,12 +93,6 @@ Built from scratch using multi-module Clean Architecture (MVVM) on the client si
 
 ---
 
-### 📊 GitHub Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=budimkic&theme=tokyo-night&hide_border=true)
-
----
-
 <p align="center">
   <em>Open to interesting problems in mobile, backend, or the hardware-software frontier.</em><br/>
   <a href="mailto:budimkic@proton.me">budimkic@proton.me</a>
