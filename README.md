@@ -68,7 +68,7 @@ Owned the architecture and full release cycle for *ITAcademy*, *BusinessAcademy*
 Led the technical migration from Java/XML into a modern Kotlin + Jetpack Compose foundation. 
 Introduced feature-based modular architecture to reduce build times, enable parallel development streams, and maximize cross-app component reuse.
 
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)]()
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=LGPE+DOO&hl=en)
 
 ---
 
