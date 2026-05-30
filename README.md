@@ -1,26 +1,32 @@
 <p align="center">
-  <img src="git_gif.gif" alt="Full Stack Development Banner" width="100%" />
+  <img src="ok (21).png" alt="Full Stack Development Banner" width="100%" />
 </p>
 
 <h1 align="center">Nemanja Budimkić</h1>
-<p align="center"><strong>Senior Full-Stack Mobile Engineer · Serbia</strong></p>
 
 <p align="center">
+  <a href="https://github.com/budimkic"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/budimkic"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:budimkic@proton.me"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
- Senior Full-Stack Mobile Engineer with 5+ years building production Android applications with 65k+ downloads.
-  Specialist in <strong>Kotlin</strong>, <strong>Jetpack Compose</strong>, and <strong>Clean Architecture</strong> — with full-stack reach into Node.js/TypeScript and hardware-level robotics integrations.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=A4C639&width=600&center=true&lines=Senior+Full-Stack+Mobile+Engineer;Modern+Mobile+Development;Making+magic+happen+one+line+of+code+at+a+time" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+ 5+ years building production Android applications. Specialist in <strong>Kotlin</strong>, <strong>Jetpack Compose</strong>, and <strong>Clean Architecture</strong> — with full-stack reach into Node.js/TypeScript and hardware-level robotics integrations.
 </p>
 
 ---
 
 ### 🔭 Currently Working On
 
-- Polishing **Golash** with custom animations & solidifying backend integration
-- Exploring deeper **Kotlin Multiplatform (KMP)** patterns for shared iOS/Android business logic
+• Polishing **Golash** with custom animations & solidifying backend integration
+
+• Exploring deeper **Kotlin Multiplatform (KMP)** patterns for shared iOS/Android business logic
 
 ---
 
@@ -29,7 +35,6 @@
 | Metric | Value |
 | :--- | :--- |
 | Ecosystem Ownership | 5 years managing 11 production white-label apps |
-| Downloads | 65k+ across multiple ecosystems |
 | Codebases migrated | Java/XML → Kotlin + Jetpack Compose |
 | Domains | Mobile · Backend · Robotics |
 
@@ -64,7 +69,7 @@ Built an AI-powered Android app on Google Play (500+ downloads). Developed with 
 
 **Role:** Lead Android Developer
 
-Owned the architecture and full release cycle for *ITAcademy*, *BusinessAcademy*, *LINK Academy*, and other LGPE apps — a suite of educational apps collectively reaching **65k+ active users**. 
+Owned the architecture and full release cycle for *ITAcademy*, *BusinessAcademy*, *LINK Academy*, and other LGPE apps — a suite of educational apps collectively reaching **65k+ users**. 
 Led the technical migration from Java/XML into a modern Kotlin + Jetpack Compose foundation. 
 Introduced feature-based modular architecture to reduce build times, enable parallel development streams, and maximize cross-app component reuse.
 
@@ -94,6 +99,6 @@ Built from scratch using multi-module Clean Architecture (MVVM) on the client si
 ---
 
 <p align="center">
-  <em>Open to interesting problems in mobile, backend, or the hardware-software frontier.</em><br/>
+  <em>Got something interesting to share? Let me know.</em><br/>
   <a href="mailto:budimkic@proton.me">budimkic@proton.me</a>
 </p>
