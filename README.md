@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ok (21).png" alt="Full Stack Development Banner" width="100%" />
+  <img src="github_banner" alt="Full Stack Development Banner" width="100%" />
 </p>
 
 <h1 align="center">Nemanja Budimkić</h1>
